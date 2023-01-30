@@ -1,5 +1,5 @@
 import './style.css'
-import { genSnowflake } from '../lib/main'
-genSnowflake()
+import { genSnowflake, genFireworks } from '../lib/main'
+genFireworks()
 
 // setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)
